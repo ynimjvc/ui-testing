@@ -1,0 +1,22 @@
+{
+  "name": "testing-meetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynimjvc/ui-testing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynimjvc/ui-testing/issues"
+  },
+  "homepage": "https://github.com/ynimjvc/ui-testing#readme",
+  "dependencies": {
+    "docsify-cli": "^4.3.0"
+  }
+}
