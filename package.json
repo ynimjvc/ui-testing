@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "docsify serve docs"
+    "serve": "docsify serve ."
   },
   "repository": {
     "type": "git",
