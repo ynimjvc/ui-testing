@@ -1,4 +1,4 @@
-[Назад](/e2e-stack/motivation.md)
+[Назад](/e2e-stack/slides/motivation.md)
 
 ---
 

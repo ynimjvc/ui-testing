@@ -1,4 +1,3 @@
-[Далее](/e2e-stack/slides/disclamer.md)
 
 ---
 
@@ -12,4 +11,4 @@
 
 ---
 
-[Далее](/e2e-stack/slides/1.md)
+[Далее](/e2e-stack/slides/disclamer.md)

@@ -1,7 +1,3 @@
-# Оглавление
+# DOTS MEETUPS
 
-## Тестирование
-
-### [1.Стек технологий для e2e тестировани](/e2e-stack/)
-
-## Frontend
+[@DOTS News](https://t.me/dots_news)
