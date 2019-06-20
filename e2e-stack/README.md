@@ -1,4 +1,4 @@
-[Оглавление](/) | [Начать](/e2e-stack/slides/1.md)
+[Оглавление](/) | [Начать](/e2e-stack/slides/disclamer.md)
 
 ---
 
